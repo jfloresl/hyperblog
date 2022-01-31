@@ -1,5 +1,10 @@
 body {
     color:deeppink;
     text-align: center;
-    font-family: courier;
+    font-family: Arial;
+}
+
+#cabezera{
+    color:blue;
+    box-shadow: 1px ;
 }
